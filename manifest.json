@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "ZTM Toggle Sidebar",
-  "version": "0.1.0",
+  "version": "0.1.6",
   "description": "Show or hide the sidebar in courses. Developed by Alpinstang.",
   "author": "John McDonald",
   "homepage_url": "http://alpinstang.com",

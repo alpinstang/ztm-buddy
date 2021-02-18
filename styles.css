@@ -17,3 +17,7 @@
   background-color: #1ca773;
   cursor: pointer;
 }
+
+.hide-sidebar-ext {
+  margin-left: 0px !important;
+}
