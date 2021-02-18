@@ -2,5 +2,6 @@
 
 #### Chromiium extension adding toggle button to https://academy.zerotomastery.io/ sidebar.
 
+---
 
-![screenshot](https://github.com/alpinstang/ztm-buddy/blob/master/screenshot.png)
+<img src="https://github.com/alpinstang/ztm-buddy/blob/master/screenshot.png" alt="drawing" width="200"/>
