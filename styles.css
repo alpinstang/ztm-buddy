@@ -1,0 +1,19 @@
+.toggle-sidebar-custom-ext {
+  display: inline-block;
+  float: right;
+  padding: 13px;
+  background-color: #181a1b;
+  border-left: 1px solid rgb(59, 64, 66);
+  color: #ffffff;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.toggle-sidebar-custom-ext:active {
+  background-color: #1ca773;
+}
+
+.toggle-sidebar-custom-ext:hover {
+  background-color: #1ca773;
+  cursor: pointer;
+}
