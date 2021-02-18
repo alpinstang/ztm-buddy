@@ -4,4 +4,4 @@
 
 ---
 
-<img src="https://github.com/alpinstang/ztm-buddy/blob/master/screenshot.png" alt="drawing" width="200"/>
+<img src="https://github.com/alpinstang/ztm-buddy/blob/master/screenshot.png" alt="drawing" width="400" align="center" />
